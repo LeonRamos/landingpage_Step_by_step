@@ -244,7 +244,7 @@ body {
 }
 
 .price__items{
-    margin-top: 35px;
+    margin-top: 35px;  
     display: grid;
     gap: 1em;
     font-weight: 300;
